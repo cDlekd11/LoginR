@@ -1,0 +1,54 @@
+{
+  "Usuarios": [
+    {
+      "id": "1",
+      "FirstName": "Jose Gabriel ",
+      "LastName": "Poma Mahuanca",
+      "Job": "Frontend Engineer",
+      "Twitter": "Jose",
+      "Avatar": "",
+      "Usuario": "cDlekd",
+      "Contraseña": "76845770"
+    },
+    {
+      "id": "2",
+      "FirstName": "Eduardo Jhans ",
+      "LastName": "Paredes Lima",
+      "Job": "Tecnico en Laboratorio",
+      "Twitter": "Jhans",
+      "Avatar": "",
+      "Usuario": "Jhans",
+      "Contraseña": "987654"
+    },
+    {
+      "id": "3",
+      "FirstName": "Luisa Milagros ",
+      "LastName": "Espinosa Domingues",
+      "Job": "Analista de Riegos",
+      "Twitter": "Luisa",
+      "Avatar": "",
+      "Usuario": "Luisa",
+      "Contraseña": "123456"
+    },
+    {
+      "id": "4",
+      "FirstName": "Yanet Jeny ",
+      "LastName": "Paucar Rosales",
+      "Job": "Administracion de Empresas",
+      "Twitter": "Yanet",
+      "Avatar": "",
+      "Usuario": "Yanet",
+      "Contraseña": "159753"
+    },
+    {
+      "id": "5",
+      "FirstName": "Mauricio Antony ",
+      "LastName": "Bonilla Rojas",
+      "Job": "Chef",
+      "Twitter": "Mauricio",
+      "Avatar": "",
+      "Usuario": "Mauricio",
+      "Contraseña": "852462"
+    }
+  ]
+}
